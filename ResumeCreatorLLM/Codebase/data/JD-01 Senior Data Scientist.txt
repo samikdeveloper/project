@@ -1,0 +1,33 @@
+Position: Senior Data Scientist – Machine Learning & AI
+Location: San Francisco, CA / Remote
+Experience Level: 5+ years
+
+About the Role
+We are seeking an experienced Data Scientist to join our AI/ML team. You will work on cutting-edge machine learning projects that impact millions of users, building recommendation systems and conducting advanced analytics to drive product decisions.
+
+Key Responsibilities
+Design and implement machine learning models for recommendation systems and personalization.
+Conduct A/B testing and statistical analysis to measure feature impact and user behavior.
+Collaborate with engineering teams to deploy models to production environments (MLOps).
+Develop scalable data pipelines using Spark and Airflow for ML workflows.
+Mentor junior data scientists and contribute to team knowledge sharing.
+Present findings and insights to stakeholders to influence product strategy.
+
+Required Skills & Qualifications
+Programming Languages: Strong proficiency in Python and SQL for data analysis and modeling.
+ML Frameworks: Hands-on experience with TensorFlow, PyTorch, and Scikit-learn.
+Statistical Analysis: Deep understanding of A/B testing, hypothesis testing, and experimental design.
+Big Data: Experience with Spark and Hadoop for large-scale data processing.
+Communication: Strong presentation skills to convey complex findings to non-technical stakeholders.
+
+Nice to Have (Bonus Skills)
+Experience with cloud platforms (AWS, GCP, Azure) for ML deployment.
+Knowledge of deep learning architectures and NLP techniques.
+Experience with MLOps tools and model deployment pipelines.
+Advanced degree (MS/PhD) in Computer Science, Statistics, or related field.
+
+Example Tech Stack
+Languages: Python, SQL, R
+Frameworks: TensorFlow, PyTorch, Scikit-learn, Spark
+Tools: Airflow, Jupyter, Git, Docker
+Cloud: AWS (SageMaker, S3, EC2), GCP

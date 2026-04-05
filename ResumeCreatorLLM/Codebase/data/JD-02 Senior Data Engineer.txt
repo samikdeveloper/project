@@ -1,0 +1,33 @@
+Position: Senior Data Engineer – Cloud & Real-time Pipelines
+Location: New York, NY / Hybrid
+Experience Level: 6+ years
+
+About the Role
+Join our data platform team to design and build highly scalable, resilient data pipelines. You will be responsible for the end-to-end architecture of our core data warehouse and real-time streaming infrastructure, ensuring data quality and availability.
+
+Key Responsibilities
+Architect, implement, and optimize robust ETL/ELT pipelines using Apache Spark and Airflow.
+Design and manage our enterprise cloud data warehouse (Snowflake/Redshift).
+Develop and maintain real-time data streaming applications using Apache Kafka.
+Ensure data governance and quality across all data models (Dimensional/Kimball).
+Collaborate with cross-functional teams to onboard new data sources and define schemas.
+Manage infrastructure as code (Terraform) for cloud resources (AWS/GCP).
+
+Required Skills & Qualifications
+Programming Languages: Expert proficiency in Python and SQL (complex joins, optimization).
+Big Data Technologies: Extensive hands-on experience with Spark, Kafka, and Hadoop ecosystems.
+Data Warehousing: Deep knowledge of Snowflake, Redshift, or BigQuery.
+Orchestration: Mandatory experience with Apache Airflow or comparable tools.
+Cloud Platforms: Proven experience architecting solutions on AWS or GCP.
+
+Nice to Have (Bonus Skills)
+Experience with Scala or Java for high-performance data applications.
+Familiarity with dbt (data build tool) for data transformation.
+Experience with containerization (Docker, Kubernetes).
+Background in finance or e-commerce data security standards.
+
+Example Tech Stack
+Languages: Python, SQL, Scala
+Frameworks: Spark, Kafka, Airflow, Snowflake
+Cloud: AWS (S3, EMR, Glue), GCP (BigQuery, Dataflow)
+Tools: Terraform, dbt, Git, Docker

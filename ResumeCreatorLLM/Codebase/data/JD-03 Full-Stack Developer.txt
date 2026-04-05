@@ -1,0 +1,34 @@
+Position: Full-Stack Developer – React & AWS Serverless
+Location: Austin, TX / Remote
+Experience Level: 4+ years
+
+About the Role
+We are seeking a versatile Full-Stack Developer to build and own features across our modern web application. You will be responsible for both the responsive frontend UI and the scalable, cloud-native backend services.
+
+Key Responsibilities
+Develop clean, performant, and responsive user interfaces using React and modern JavaScript/TypeScript.
+Design and implement robust RESTful and GraphQL APIs using Node.js or Python (Flask/Django).
+Utilize AWS serverless services (Lambda, DynamoDB, S3) for scalable backend architecture.
+Write comprehensive unit and integration tests (Jest, Cypress) and implement CI/CD pipelines.
+Collaborate with UX/UI designers and product managers to translate mockups into code.
+Monitor and optimize application performance and security across the stack.
+
+Required Skills & Qualifications
+Frontend: Expertise in React, JavaScript (ES6+), HTML5, and CSS3.
+Backend: Proficiency in Node.js or Python for API development.
+Cloud: Hands-on experience with core AWS services (Lambda, DynamoDB, S3, API Gateway).
+Databases: Strong knowledge of SQL (PostgreSQL/MySQL) or NoSQL (MongoDB/DynamoDB).
+DevOps: Experience with Git, Docker, and CI/CD tools (GitHub Actions, Jenkins).
+
+Nice to Have (Bonus Skills)
+Experience with TypeScript or Next.js framework.
+Familiarity with microservices architecture and GraphQL.
+AWS Certified Developer – Associate certification.
+Experience in optimizing UI performance for mobile devices.
+
+Example Tech Stack
+Languages: JavaScript/TypeScript, Python, SQL
+Frontend: React, Redux, Next.js
+Backend: Node.js, Express, Python (Flask)
+Cloud: AWS Lambda, API Gateway, DynamoDB, S3
+Tools: Docker, Jest, Git, GitHub Actions
