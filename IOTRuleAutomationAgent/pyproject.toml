@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rule-automation"
+version = "0.1.0"
+description = "Agentic AI rule automation project for IoT message-routing rules."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv",
+    "fastapi",
+    "groq",
+    "langchain",
+    "langchain-groq",
+    "langgraph",
+    "pydantic",
+    "requests",
+    "streamlit",
+    "uvicorn",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
