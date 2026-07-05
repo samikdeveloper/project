@@ -9,8 +9,8 @@ This file orchestrates the entire CV generation process:
 5. Creates final PDF output
 """
 
-from pdf_utilities import extract_text_from_pdf
-from pdf_utilities import create_pdf_from_text
+from utilities.pdf_utilities import extract_text_from_pdf
+from utilities.pdf_utilities import create_pdf_from_text
 from resume_extractor import extract_resume_data_with_ollama
 from jd_extractor import extract_jd_with_ollama
 from cv_creator import generate_ats_cv
